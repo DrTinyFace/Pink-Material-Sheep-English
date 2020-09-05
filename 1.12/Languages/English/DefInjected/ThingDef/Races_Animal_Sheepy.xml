@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ここから個別の設定 -->
+
+  <aka_BSheep.label>Blossom sheep</aka_BSheep.label>
+  <aka_BSheep.description>A sheep that has been genetically altered to produce a soft, pink, high-quality wool. Its wool can be used to make high-quality clothes or can be hardened into a building material at a stone cutter. Thanks to its unique appearance, shows are often held to try and compete for the most beautiful blossom sheep in the universe.</aka_BSheep.description>
+  <aka_BSheep.tools.0.label>head</aka_BSheep.tools.0.label>
+  <aka_BSheep_Leather.label>Blossom sheep leather</aka_BSheep_Leather.label>
+  <aka_BSheep_Leather.description>The leather of a deceased blossom sheep.</aka_BSheep_Leather.description>
+  <aka_BSheep_Leather.stuffProps.stuffAdjective>Blossom sheep leather</aka_BSheep_Leather.stuffProps.stuffAdjective>
+  <aka_BSheep_Meat.label>Blossom sheep meat</aka_BSheep_Meat.label>
+  <aka_BSheep_Meat.description>Raw butchered flesh. Can be cooked into meals, or eaten raw.</aka_BSheep_Meat.description>
+  <aka_BSheep_Corpse.label>Blossom sheep corpse</aka_BSheep_Corpse.label>
+  <aka_BSheep_Corpse.description>Dead body of a blossom sheep.</aka_BSheep_Corpse.description>
+
+
+</LanguageData>

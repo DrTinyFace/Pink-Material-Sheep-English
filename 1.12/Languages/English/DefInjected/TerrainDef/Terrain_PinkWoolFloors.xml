@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpets Pink Wool -->
+
+  <aka_CarpetPinkWool.label>Pink wool carpet</aka_CarpetPinkWool.label>
+  <aka_CarpetPinkWool.description>Plush carpet made from a fluffy pink wool.</aka_CarpetPinkWool.description>
+
+
+  <!-- Pink Wood Floor -->
+
+  <aka_PinkWoodPlankFloor.label>Pink wood flooring</aka_PinkWoodPlankFloor.label>
+  <aka_PinkWoodPlankFloor.description>Flooring made from pink wool wood. Just as flammable as regular wood, but a little nicer to look at.</aka_PinkWoodPlankFloor.description>
+
+
+  <!-- Pink Wood Stone Tile -->
+
+  <aka_TilePinkStone.label>Pink wood stone tiles</aka_TilePinkStone.label>
+  <aka_TilePinkStone.description>A pretty pink stone flooring made from pink wool wood which is made from pink wool. Confused yet? Also, it doesn't burn, for some reason. Hopefully.</aka_TilePinkStone.description>
+
+
+</LanguageData>

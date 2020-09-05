@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sheep Names -->
+
+  <aka_BSheep.label>Blossom sheep</aka_BSheep.label>
+  <aka_BSheep.labelPlural>Blossom sheep</aka_BSheep.labelPlural>
+  <aka_BSheep.lifeStages.0.label>Blossom lamb</aka_BSheep.lifeStages.0.label>
+  <aka_BSheep.lifeStages.0.labelPlural>Blossom lamb</aka_BSheep.lifeStages.0.labelPlural>
+  <aka_BSheep.lifeStages.1.label>Blossom sheep</aka_BSheep.lifeStages.1.label>
+  <aka_BSheep.lifeStages.1.labelPlural>Blossom sheep</aka_BSheep.lifeStages.1.labelPlural>
+  <aka_BSheep.lifeStages.2.label>Blossom sheep</aka_BSheep.lifeStages.2.label>
+  <aka_BSheep.lifeStages.2.labelPlural>Blossom sheep</aka_BSheep.lifeStages.2.labelPlural>
+
+
+</LanguageData>

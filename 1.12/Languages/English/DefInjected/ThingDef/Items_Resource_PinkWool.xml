@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wool -->
+
+  <aka_WoolBSheep.label>Pink wool</aka_WoolBSheep.label>
+  <aka_WoolBSheep.description>Pink wool is soft, light, and very good for insulation. Clothing knitted from it can keep you warm in even the harshest of conditions. And, by hardening it, you can create a quick to install material at the cost of durability and flammability.</aka_WoolBSheep.description>
+  <aka_WoolBSheep.stuffProps.stuffAdjective>Pink wool</aka_WoolBSheep.stuffProps.stuffAdjective>
+
+  <aka_PinkWoolWood.label>Pink wool wood</aka_PinkWoolWood.label>
+  <aka_PinkWoolWood.description>A wood-like material that has a low durability and high flammability, but is easy to create. Slightly less flammable when used for flooring.</aka_PinkWoolWood.description>
+  <aka_PinkWoolWood.stuffProps.stuffAdjective>Pink wool wood</aka_PinkWoolWood.stuffProps.stuffAdjective>
+
+
+</LanguageData>

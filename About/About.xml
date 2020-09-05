@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Pink Material Sheep English Retranslation</name>
+	<author>DrTinyFace</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>DrTinyFace.EnglishPinkSheep</packageId>
+	<description>
+	A complete retranslation of the Pink Material Sheep mod. Created as a way to learn the basic structuring and layout of Rimworld mods, and to fix some awkward/unclear item definitions that I found in the original mod.
+  </description>
+</ModMetaData>
